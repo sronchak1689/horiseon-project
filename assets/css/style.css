@@ -31,7 +31,7 @@ body {
     font-size: 30px;
 }
 
-/*combined header list and type*/
+/*combined header list content and type*/
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
